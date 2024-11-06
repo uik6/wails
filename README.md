@@ -7,7 +7,7 @@ asset bundling. It comes with the bare minimum, and can be extended by following
 the guides in this README. 
 
 To create a project using this template run:
-`wails init -n [Your Appname] -t https://github.com/uik6/wails`
+`wails init -n [Your Appname] -t https://github.com/uik6/wails-demo`
 
 ## Live Development
 
