@@ -34,8 +34,8 @@ const App: React.FC = () => {
         </Header>
         <Content
           style={{
-            margin: "16px 16px",
-            padding: 24,
+            margin: 8,
+            padding: 8,
             minHeight: 280,
             background: colorBgContainer,
             borderRadius: borderRadiusLG,
